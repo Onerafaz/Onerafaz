@@ -22,9 +22,12 @@ I'm Rafael, a Data Analyst passionate about building innovative applications, so
 
 Here are some of my favorite projects:
 
-- **Desk Booking App**: Office desk managing system for Continental ITA. (https://github.com/Onerafaz/desk-booking-app)
-- **Lasercraft 3d Print**: SME website with colaboration and custom design requests for 3d printing. (https://github.com/Onerafaz/lasercraft)
-- **One Converter**: Unit conversion app. (https://github.com/Onerafaz/conversion_website)
+- **Desk Booking App**: Office desk managing system for Continental ITA. (https://github.com/Onerafaz/desk-booking-app) *Demo*(https://desk-booking-cita.netlify.app/)
+- **Lasercraft 3d Print**: SME website with colaboration and custom design requests for 3d printing. (https://github.com/Onerafaz/lasercraft) *Demo*(https://lasercraft3dprint.netlify.app/)
+- **One Converter**: Unit conversion app. (https://github.com/Onerafaz/conversion_website) *Demo*(https://oneconverter.netlify.app/)
+- **CS50x**: Harvard online course. (https://github.com/Onerafaz/CS50x) (https://github.com/Onerafaz/me50)
+- **Wine Data analisis**: (https://github.com/Onerafaz/DataCamp_wine_analysis)
+- **Pandas example**: (https://github.com/Onerafaz/FreeCodeCamp-Pandas-Real-Life-Example)
 
 Check out my [GitHub Repositories](https://github.com/[onerafaz]?tab=repositories) for more projects!
 
